@@ -1,0 +1,11 @@
+ISBN,Title,Author,Category,Available
+9780134685991,Effective Java,Joshua Bloch,Programming,true
+9780596009205,Head First Java,Kathy Sierra,Programming,true
+9780132350884,Clean Code,Robert C. Martin,Programming,true
+9780201633610,Design Patterns,Erich Gamma,Software Design,true
+9780134685992,Java Concurrency,Brian Goetz,Programming,true
+9781491950357,Building Microservices,Sam Newman,Architecture,true
+9780596517748,JavaScript Guide,David Flanagan,Web,true
+9780321356680,Effective C++,Scott Meyers,Programming,true
+9780134494166,Clean Architecture,Robert C. Martin,Software Design,true
+9781617294945,Spring in Action,Craig Walls,Framework,true
